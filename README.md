@@ -8,5 +8,7 @@
 
 **Test Accuracy: 96.084%**
 
+**Note,modify some super parameters to apply to other data sets.**
+
 
 
